@@ -2,14 +2,19 @@
 @import url('https://fonts.googleapis.com/css2?family=Titillium+Web:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700&family=Ubuntu+Condensed&display=swap');
 
 
-:root{
-  --overall-background : beige;
-  --border-color :gray ;
-  --btn-color:#6D0071 ;
-  --income-color:#8BFF5D;
-  --expense-color:#FF835D;
-  --delete-bg-color:#EF3801 ;
-  --box-shadow: box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px; ;
+:root {
+  --overall-background: #f0f2f5;
+  --primary-color: #5b21b6;
+  --primary-light: #7c3aed;
+  --income-color: #22c55e;
+  --expense-color: #dc2626;
+  --text-primary: #1f2937;
+  --text-secondary: #4b5563;
+  --card-bg: #ffffff;
+  --border-color: #e5e7eb;
+  --delete-bg-color: #dc2626;
+  --box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+  --divider-color: #e2e8f0;
 }
 
 *{
